@@ -10,7 +10,6 @@ function App() {
       <WelcomeHeader />
       <LetterHeader />
       <WordList />
-      <h1>Hello World</h1>
     </div>
   );
 }

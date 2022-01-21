@@ -1,6 +1,6 @@
 import React from 'react';
 import '../App.css';
-import alphabet from './Alphabet';
+import alphabet from '../data/Alphabet';
 
 export const LetterHeader = () => {
   return (
